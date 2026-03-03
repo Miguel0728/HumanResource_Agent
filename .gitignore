@@ -1,0 +1,28 @@
+# Credentials & secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+
+# Database
+database/
+*.db
+*.bin
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.code-workspace
+
+# Misc
+RH_Bot/
+codigo.txt
